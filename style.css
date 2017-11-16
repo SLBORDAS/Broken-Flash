@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#logo{
+	width: 100px;
+}
+
+body{
+	background: #ff5e19;
+}
+
+header {
+	display: flex;
+	background: black;
+}
+
+p{
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.support{
+	text-align: right;
+}
