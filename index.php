@@ -4,7 +4,9 @@
 		<meta charset="utf-8"/>
 			<meta name="theme-color" content="#171a21">
 		<link rel="stylesheet" href="./style.css"/>
-        <link rel="stylesheet" href="./"
+		<script type="scip">
+
+		</script>
 			<title>Broken Flash</title>
 	<link rel="shortcut icon" href="broken-flash-logo.png" type="image/x-icon">
 
@@ -14,9 +16,10 @@
 
 		<header>
 
-		<div id="logo"/>
-			<img src="broken-flash-logo.png"  alt="logo Broken" id="logo" />
+		<div id="logo">
+			<img src="broken-flash-logo.png"  alt="logo Broken"/>
 		</div>
+
 		<div class="bibli_Publique">
 			<p> Bibliothèque Publique </p>
 		</div>
@@ -31,6 +34,9 @@
 
 		<div class="support">
 			<a href="http://www.google.fr" target="_blank"> Support </a>
+		</div>
+		<div id="loupe">
+			<img src="loupe_blanche.png" alt="loupe-de-recherche">
 		</div>
 	</header>
 

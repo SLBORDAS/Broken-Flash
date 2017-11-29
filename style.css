@@ -7,7 +7,7 @@
 	width: 100px;
 }
 #logo img{
-width: 100%;
+	width: 100%;
 }
 body{
 	background: CornflowerBlue;
@@ -29,4 +29,26 @@ a{
 
 .support{
 	text-align: right;
+}
+
+.bibli_Publique {
+	margin: auto;
+	text-align: left;
+}
+.bibli_Perso {
+	margin: auto;
+	text-align: left;
+}.communauté {
+	margin: auto;
+	text-align: left;
+}
+.support {
+	margin: auto;
+	text-align: left;
+}
+#loupe{
+	width: 30px;
+}
+#loupe img{
+	width: 100%;
 }
