@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html class="responsive" lang="fr">
 	<head>
 		<meta charset="utf-8"/>
@@ -12,18 +13,18 @@
 
 		<header>
 
-		<div id="Logo"/>
-			<img src="broken-flash-logo.png"  alt="logo Brocken" id="logo" />
+		<div id="logo"/>
+			<img src="broken-flash-logo.png"  alt="logo Broken" id="logo" />
 		</div>
-		<div class="Bibli_Publique">
+		<div class="bibli_Publique">
 			<p> Bibliothèque Publique </p>
 		</div>
 
-		<div class="Bibli_Perso">
+		<div class="bibli_Perso">
 			<p> Bibliothèque Personelle </p>
 		</div>
 
-		<div class="Communauté">
+		<div class="communauté">
 			<p> Communauté </p>
 		</div>
 
@@ -33,4 +34,6 @@
 	</header>
 
 	</body>
+	  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<script src="./script.js"></script>
 </html>
