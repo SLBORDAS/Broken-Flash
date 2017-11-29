@@ -6,6 +6,7 @@
 #logo{
 	width: 100px;
 }
+
 #logo img{
 	width: 100%;
 }
@@ -27,40 +28,48 @@ a{
 	color: white;
 }
 
-.support{
-	text-align: right;
-}
-
-.bibli_Publique {
-	margin: auto;
-	text-align: left;
-}
-.bibli_Perso {
-	margin: auto;
-	text-align: left;
-}.communauté {
-	margin: auto;
-	text-align: left;
-}
-.support {
-	margin: auto;
-	text-align: left;
-}
 #loupe{
 	width: 40px;
-    height: 40px;
-
+	height: 40px;
 }
+#loupe img{
+	height: 100%
+}
+.bibli_Publique{
+	margin: auto;
+	text-align: left;
+	font-size: 24px;
+}
+
+.bibli_Perso{
+	margin: auto;
+	text-align: left;
+	font-size: 24px;
+}
+
+.communauté{
+	margin: auto;
+	text-align: left;
+	font-size: 24px;
+}
+
+.support{
+	margin: auto;
+	text-align: left;
+	font-size: 24px;
+}
+
 	#recherche{
 	margin: auto;
 	text-align: left;
 	height: 40px;
 }
+
 #recherche input{
 	height: 35px;
     position: relative;
     top: -13px;
 }
-#loupe img{
-	height: 100%
-}
+
+
+

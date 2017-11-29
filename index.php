@@ -4,9 +4,7 @@
 		<meta charset="utf-8"/>
 			<meta name="theme-color" content="#171a21">
 		<link rel="stylesheet" href="./style.css"/>
-		<script type="scip">
 
-		</script>
 			<title>Broken Flash</title>
 	<link rel="shortcut icon" href="broken-flash-logo.png" type="image/x-icon">
 
@@ -17,7 +15,9 @@
 		<header>
 
 		<div id="logo">
+
 			<img src="broken-flash-logo.png"  alt="logo Broken"/>
+
 		</div>
 
 		<div class="bibli_Publique">
@@ -25,7 +25,7 @@
 		</div>
 
 		<div class="bibli_Perso">
-			<p> Bibliothèque Personelle </p>
+			<p> Bibliothèque Personnelle </p>
 		</div>
 
 		<div class="communauté">
@@ -40,7 +40,7 @@
 		</div>
 	</header>
 
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <script rel="stylesheet" src="./script.js"></script>
 	</body>
-	  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-		<script src="./script.js"></script>
 </html>
