@@ -8,12 +8,12 @@
 }
 
 body{
-	background: #ff5e19;
+	background: CornflowerBlue;
 }
 
 header {
 	display: flex;
-	background: black;
+	background: darkSlateGray;
 }
 
 p{
