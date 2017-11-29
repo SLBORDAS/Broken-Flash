@@ -5,21 +5,21 @@
 		<link rel="stylesheet" href="./style.css"/>
 			<title>Broken Flash</title>
 	<link rel="shortcut icon" href="broken-flash-logo.png" type="image/x-icon">
-	
+
 	</head>
 
-	<body> 
+	<body>
 
 		<header>
 
 		<div id="Logo"/>
-			<img src="broken-flash-logo.png" " alt="logo Brocken" id="logo" />
+			<img src="broken-flash-logo.png"  alt="logo Brocken" id="logo" />
 		</div>
 		<div class="Bibli_Publique">
 			<p> Bibliothèque Publique </p>
-		</di
+		</div>
 
-		<div class="Bibli_Perso">	
+		<div class="Bibli_Perso">
 			<p> Bibliothèque Personelle </p>
 		</div>
 
@@ -32,5 +32,5 @@
 		</div>
 	</header>
 
-	</body>	
+	</body>
 </html>
