@@ -3,6 +3,7 @@
 		<meta charset="utf-8"/>
 			<meta name="theme-color" content="#171a21">
 		<link rel="stylesheet" href="./style.css"/>
+        <link rel="stylesheet" href="./"
 			<title>Broken Flash</title>
 	<link rel="shortcut icon" href="broken-flash-logo.png" type="image/x-icon">
 
