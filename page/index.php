@@ -13,29 +13,46 @@
 
 		<header>
 
-		<div id="logo">
-			<img src="../img/broken-flash-logo.png"  alt="logo Broken"/>
-		</div>
+			<div id="logo">
+				<img src="../img/broken-flash-logo.png"  alt="logo Broken"/>
+			</div>
 
-		<div class="bibli_Publique">
-			<p> Bibliothèque Publique </p>
-		</div>
+			<ul  id="bibpub" class="bibli_Publique">
+				<li> Bibliothèque Publique </li>
+				<li id="sub_pub">
+					<ul>
+						<li> À LA UNE</li>
+						<li> EXPLORER</li>
+						<li> ACTUALITÉ</li>
+						<li> STATISTIQUES</li>
+					</ul>
+				</li>
+			</ul>
 
-		<div class="bibli_Perso">
-			<p> Bibliothèque Personnelle </p>
-		</div>
+			<ul  id="bibper" class="bibli_Perso">
+				<li> Bibliothèque Personnelle </li>
+				<li id="sub_per">
+					<ul>
+						<li> À LA UNE</li>
+						<li> EXPLORER</li>
+						<li> ACTUALITÉ</li>
+						<li> STATISTIQUES</li>
+					</ul>
+				</li>
+			</ul>
+			
 
-		<div class="communauté">
-			<p> Communauté </p>
-		</div>
+			<div class="communauté">
+				<p> Communauté </p>
+			</div>
 
-		<div class="support">
-			<a href="http://www.google.fr" target="_blank"> Support </a>
-		</div>
-		<div id="recherche">
-			<input type="text" name="recherche" value="">
-			<button type="button" name="loupe" id="loupe"><img src="../img/loupe_blanche.png"/></button>
-		</div>
+			<div class="support">
+				<a href="http://www.google.fr" target="_blank"> Support </a>
+			</div>
+			<div id="recherche">
+				<input type="text" name="recherche" value="">
+				<button type="button" name="loupe" id="loupe"><img src="../img/loupe_blanche.png"/></button>
+			</div>
 
 	</header>
 
